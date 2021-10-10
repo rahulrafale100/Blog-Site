@@ -1,1 +1,3 @@
 NodeJS
+For Node Modules look for dependencies in package.json
+$ npm install <name_of_dependencies>
